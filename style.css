@@ -1,3 +1,11 @@
+html {
+scrool-behavior: smooth;    
+}
+.scrool-down {
+text-decoration: none;
+color: black;
+cursor: pointer;    
+}
 body {
     margin: 0;
     padding: 0;
@@ -71,6 +79,7 @@ section h1 {
 }
 
 .section_row {
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
