@@ -1,5 +1,5 @@
 html {
-scrool-behavior: smooth;    
+scroll-behavior: smooth;    
 }
 .scrool-down {
 text-decoration: none;
@@ -14,7 +14,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(https://kartinkof.club/uploads/posts/2022-07/1659228236_4-kartinkof-club-p-kartinki-krasivie-raznie-novie-dlya-nastro-5.jpg);
     background-size: cover;
     display: flex;
 }
@@ -48,10 +48,12 @@ header {
     align-items: center;
     justify-content: center;
     font-size: 10vw;
+    color: black;
 }
 
 .header_btn {
     cursor: pointer;
+    color: black;
 }
 
 .header_btn:hover {
